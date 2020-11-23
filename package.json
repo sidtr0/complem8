@@ -1,0 +1,23 @@
+{
+  "name": "complement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DracTheDino/complement.git"
+  },
+  "author": "Drac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DracTheDino/complement/issues"
+  },
+  "homepage": "https://github.com/DracTheDino/complement#readme",
+  "dependencies": {
+    "hex-rgb": "^4.2.0",
+    "rgb-hex": "^3.0.0"
+  }
+}
