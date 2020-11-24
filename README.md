@@ -10,7 +10,7 @@ A small command line app which outputs complementary color to given hexadecimal 
 
 ```npm install -g complem8```
 
-You would then be able to run the code like below:
+You would then be able to run the command like below:
 
 ```complem8 "#123456"```
 
