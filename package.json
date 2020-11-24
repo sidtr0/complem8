@@ -1,6 +1,6 @@
 {
   "name": "complem8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "bin/app.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "rgb-hex": "^3.0.0"
   },
   "bin": {
-    "complement": "./bin/app.js"
+    "complem8": "./bin/app.js"
   }
 }
