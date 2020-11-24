@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const hexRgb = require('hex-rgb');
 const rgbHex = require('rgb-hex')
 const limit = 255;

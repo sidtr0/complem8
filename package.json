@@ -1,8 +1,8 @@
 {
-  "name": "complement",
+  "name": "complem8",
   "version": "1.0.0",
   "description": "",
-  "main": "src/app.js",
+  "main": "bin/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
   "dependencies": {
     "hex-rgb": "^4.2.0",
     "rgb-hex": "^3.0.0"
+  },
+  "bin": {
+    "complement": "./bin/app.js"
   }
 }
